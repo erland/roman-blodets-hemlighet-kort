@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "revision": 1,
+  "project": {
+    "title": "Blodets hemlighet",
+    "subtitle": "Den första gnistan",
+    "author": "Erland Lindmark",
+    "language": "sv-SE"
+  },
+  "chapters": {
+    "count": 12,
+    "latest": 12,
+    "items": [
+      {
+        "number": 1,
+        "file": "kapitel/kapitel-01.md",
+        "title": "De första tecknen"
+      },
+      {
+        "number": 2,
+        "file": "kapitel/kapitel-02.md",
+        "title": "Något är fel"
+      },
+      {
+        "number": 3,
+        "file": "kapitel/kapitel-03.md",
+        "title": "Hemligheter i huset"
+      },
+      {
+        "number": 4,
+        "file": "kapitel/kapitel-04.md",
+        "title": "Flickan vid sjön"
+      },
+      {
+        "number": 5,
+        "file": "kapitel/kapitel-05.md",
+        "title": "Isaras blick"
+      },
+      {
+        "number": 6,
+        "file": "kapitel/kapitel-06.md",
+        "title": "Den första lektionen"
+      },
+      {
+        "number": 7,
+        "file": "kapitel/kapitel-07.md",
+        "title": "Sprickor"
+      },
+      {
+        "number": 8,
+        "file": "kapitel/kapitel-08.md",
+        "title": "Elden i minnet"
+      },
+      {
+        "number": 9,
+        "file": "kapitel/kapitel-09.md",
+        "title": "Under huden"
+      },
+      {
+        "number": 10,
+        "file": "kapitel/kapitel-10.md",
+        "title": "Det som gömts"
+      },
+      {
+        "number": 11,
+        "file": "kapitel/kapitel-11.md",
+        "title": "Stormen"
+      },
+      {
+        "number": 12,
+        "file": "kapitel/kapitel-12.md",
+        "title": "Den första gnistan"
+      }
+    ]
+  },
+  "publishing": {
+    "cover": "omslag/cover.jpg",
+    "metadata": "publishing/metadata.yaml",
+    "pandoc_version": "3.1.11.1",
+    "preview_artifact": "blodets-hemlighet-preview"
+  }
+}

@@ -23,3 +23,4 @@
 | 2026-05-26 | Språkrevision | Hela boken språkgranskad och stiljusterad |
 | 2026-05-26 | Exportstädning | Kapitelnoteringar flyttade till separat fil och kapitlen rensade inför EPUB |
 | 2026-05-26 | Exportfix | Kapitel rensade från noteringar och EPUB skapas utan innehållsförteckning |
+| 2026-08-12 | GitHub Actions-publicering | Validate, Preview och Release införda; Pandoc/XeLaTeX-bygge anpassat till projektet |

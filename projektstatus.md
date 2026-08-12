@@ -62,3 +62,11 @@ Kapitelnoteringar och revisionsanteckningar har flyttats ur kapitelfilerna. EPUB
 
 ## Exportfix
 Kapitelfilerna har rensats igen från interna noteringar. EPUB exporteras utan innehållsförteckning i början.
+
+## GitHub Actions
+GitHub Actions-publicering är införd:
+- Validate på PR/push till `main`
+- Manuell Build Preview
+- Release på `v*`-taggar
+- Reproducerbar Pandoc-version 3.1.11.1
+- EPUB + PDF från kanoniska 12 kapitel

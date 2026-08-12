@@ -52,3 +52,13 @@
 - Senaste revision: Dialog- och röstrevision kapitel 10–12
 - Senaste revision: Språkrevision för hela boken
 - Exportstädning: Kapitelnoteringar flyttade till `kapitelnoteringar.md`
+
+## CI/publicering
+- `.github/workflows/01-validate.yml`: OK
+- `.github/workflows/02-build-preview.yml`: OK
+- `.github/workflows/03-release.yml`: OK
+- `scripts/validate_project.py`: OK
+- `scripts/build_book.py`: OK
+- `publishing/metadata.yaml`: OK
+- `omslag/cover.jpg`: OK
+- `project-manifest.json`: OK
